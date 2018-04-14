@@ -1,4 +1,4 @@
-__author__ = 'samsjang@naver.com'
+__author__ = 'sunghyeon86@gmail.com'
 #!/usr/bin/env python3
 # -*- coding: utf8 -*-
 
