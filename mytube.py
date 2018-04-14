@@ -1,4 +1,4 @@
-__author__ = 'samsjang@naver.com'
+__author__ = 'sunghyeon86@gmail.com'
 
 from tkinter import *
 import tkinter.ttk as ttk
